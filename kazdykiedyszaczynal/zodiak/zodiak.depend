@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1300394148 source:d:\programming\code\stare listingi\kazdykiedyszaczynal\zodiak\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+

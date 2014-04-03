@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1300395792 source:d:\programming\code\stare listingi\kazdykiedyszaczynal\biznes\product.cpp
+	"product.h"
+
+1300396112 d:\programming\code\stare listingi\kazdykiedyszaczynal\biznes\product.h
+	<map>
+
+1300395917 source:d:\programming\code\stare listingi\kazdykiedyszaczynal\biznes\main.cpp
+	<iostream>
+	"product.h"
+

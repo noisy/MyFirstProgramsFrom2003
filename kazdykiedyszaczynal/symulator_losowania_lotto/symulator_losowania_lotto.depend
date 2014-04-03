@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1300389161 source:d:\programming\code\stare listingi\kazdykiedyszaczynal\symulator_losowania_lotto\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
